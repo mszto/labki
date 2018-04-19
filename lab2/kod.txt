@@ -1,0 +1,33 @@
+
+
+
+
+
+<TABLE>
+<CAPTION>Najd³u¿sze rzeki œwiata </CAPTION>
+<TR>
+<TH>Nazwa</TH>
+<TH>d³ugoœæ</TH>
+<TH>pow. dorzecza</TH>
+</TR>
+<TR>
+<TD>Nil</TD>
+<TD>6671</TD>
+<TD>2870</TD>
+</TR>
+<TR>
+<TD>Missisipi (od ¿róde³ Missouri)</TD>
+<TD>6418</TD>
+<TD>3275</TD>
+</TR>
+<TR>
+<TD>Amazonka (z Maranon)</TD>
+<TD>6400</TD>
+<TD>7180</TD>
+</TR>
+<TR>
+<TD>Jangcy</TD>
+<TD>5701</TD>
+<TD>1726</TD>
+</TR>
+</TABLE>
